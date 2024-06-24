@@ -1,0 +1,8 @@
+dayonweek= int (input ('Day of the week= '))
+if dayonweek==1:print ('Mounday Weekday')
+elif dayonweek==2:print ('Tuesday Weekday')
+elif dayonweek==3:print ('Wednesday Weekday')
+elif dayonweek==4:print ('Thursday Weekday')
+elif dayonweek==5:print ('Friday Weekday')
+elif dayonweek==6:print ('Saturday Weekend')
+elif dayonweek==7:print ('Sunday Weekdend')
